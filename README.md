@@ -6,7 +6,7 @@ The ZSH theme based on [agnoster's Theme](https://gist.github.com/agnoster/37128
 ![gruvbox-zsh](screenshot.png)
 
 # Installation
-1. Download [iTerm2 Gruvbox Color Scheme](https://github.com/herrbischoff/iterm2-gruvbox) and import into iTerm. `iTerm2 Preferences -> Profiles -> Colors -> Color Preset`
+1. Download [iTerm2 Gruvbox Color Scheme](https://github.com/samueljoli/iterm2-gruvbox) and import into iTerm. `iTerm2 Preferences -> Profiles -> Colors -> Color Preset`
 2. Download and install a [Nerd Font](https://nerdfonts.com/).
 3. Download `gruvbox.zsh-theme` and put it in `~/.oh-my-zsh/custom/themes/`.
   ``` bash
